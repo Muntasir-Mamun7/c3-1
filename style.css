@@ -1,0 +1,42 @@
+.btn {
+    color: #A34F4F;
+    border-color: #A34F4F;
+    background-color: hsl(202, 25%, 74%);
+    
+
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    width: 213px;
+    height: 40px;
+    
+    
+    
+
+}
+.card-body {
+    background-color:hsl(202, 25%, 74%) ;
+    
+
+}
+
+#tour {
+    background-image: url("images/7a25417e8ad25469ad7cc9de3904e7f4.jpg");
+    background-repeat: no-repeat;
+    height: 1161px;
+    max-width: 100%;
+}
+
+
+.card-img-top-tour {
+    height: 152px;
+    width: 163px;
+    align-items: center;
+}
+
+.tour-card {
+    height: 394px;
+    width: 350px;
+}
