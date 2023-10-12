@@ -25,6 +25,8 @@
 #tour {
     background-image: url("images/7a25417e8ad25469ad7cc9de3904e7f4.jpg");
     background-repeat: no-repeat;
+    border-radius: 0px 200px;
+
     height: 1161px;
     max-width: 100%;
 }
